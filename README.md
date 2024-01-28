@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donizete-ramos/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-![Donizete GitHub stats](https://github-readme-stats.vercel.app/api?username=Doni7Ramos&show_icons=true&theme=merko)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doni7Ramos&layout=compact&theme=merko" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doni7Ramos&layout=compact&theme=merko" style="max-width: 100%;">
+![Donizete GitHub stats](https://github-readme-stats.vercel.app/api?username=Doni7Ramos&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doni7Ramos&layout=compact&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doni7Ramos&layout=compact&theme=tokyonight" style="max-width: 100%;">
 
 
 ## Tecnologias que uso no meu dia
